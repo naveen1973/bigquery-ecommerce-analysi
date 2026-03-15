@@ -4,7 +4,6 @@
 SQL portfolio project analysing Google Analytics ecommerce data using BigQuery and Python.
 
 ## Background
-## Background
 Experienced financial analyst with advanced Excel skills, expanding into SQL and Python for data analysis.
 
 ## Project
